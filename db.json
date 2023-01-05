@@ -1,0 +1,25 @@
+{
+    "montres": [
+        {
+            "id": 1,
+            "title": "AIR KING",
+            "image": "https://content.rolex.com/dam/new-watches-2022/homepage/roller-family/homepage-new-watches-2022-roller-watches-air-king-family-m126900-0001_portrait.jpg?imwidth=420",
+            "price": 862,
+            "description": "Montre connectée multifonctions et Notification Intelligente: Trackers d'Activité ( Podometre, Distance, Calories ), Cardiofrequencemetre, Chronomètre, Réveil, Rappel Sédentaire, Respirer Guide, Contrôle de la Musique, Trouver un Téléphone, Sens du Poignet, Notification Météo. Lorsque vous reçoit un appel, un SMS et des messages (Facebook, Twitter, Whatsapp, Ins etc), la montre connectee vous alerte en vibrant. Vous pouvez même raccrocher les appels entrants directement depuis votre poignet. "
+        },
+        {
+            "id": 2,
+            "title": "GMT MASTER II",
+            "image": "https://content.rolex.com/dam/new-watches-2020/homepage/roller/all-watches/watches_0004_m126711chnr-0002-gmt-master-ii_portrait.jpg?imwidth=420, https://content.rolex.com/dam/new-watches-2020/homepage/roller/all-watches/watches_0004_m126711chnr-0002-gmt-master-ii_portrait.jpg?imwidth=840 2x",
+            "price": 429,
+            "description": "Montre connectée homme utilise le micro et le haut-parleur intégrés pour passer des appels Bluetooth en mode mains libres, support afficher les enregistrements d'appels, ajouter des contacts communs, qu'il s'agisse de s'entraîner ou de faire le ménage, les appels deviennent faciles et confortables. Équipée d'un assistant vocal AI, elle peut effectuer toutes les fonctions du téléphone mobile (jouer de la musique, conduire la navigation, etc...). "
+        },
+        {
+            "id": 3,
+            "title": "SUBMARINER",
+            "image": "https://content.rolex.com/dam/new-watches-2020/homepage/roller/all-watches/watches_0008_m124060-0001-submariner_portrait.jpg?imwidth=420,%20https://content.rolex.com/dam/new-watches-2020/homepage/roller/all-watches/watches_0008_m124060-0001-submariner_portrait.jpg?imwidth=840%202x",
+            "price": 147,
+            "description": "Multifonctionl: cette montre connectée comprend des fonctions plus pratiques telles que le tracker d'activité ( podometre, distance, calories ), cardiofréquencemètre, oxymètres, tensiomètre, 8 modes sport, tracker sommeil et alarme, notification de message ( appels, sms, facebook, messenger, twitter, whatsapp, ins...), contrôle de la musique, rappel sédentaire , chronomètres, sens du poignet, etanche ip67, personnaliser styles de cadran, prévisions météorologiques. "
+        }
+    ]
+}
